@@ -1,0 +1,12 @@
+La idea es una plataforma que comunique oferta con demanda en el sector de la salud.
+Entonces tenemos unos roles (Paciente, Doctor, Centro Médico, Soporte y Administrador).
+Los usuarios de la plataforma estaran asociados con alguno de estos roles cuyo objetivo es definir las acciones que puede realizar en la plataforma.
+Cabe resaltar que tener un rol no impide funciones basicas como publicar un foro o solicitar una cita, un doctor puede solicitar una cita con otro doctor
+debido a que no se pueden revisar ellos mismos o hacer procedimientos.
+La idea de los foros es que se forme una comunidad donde pregunten cosas de interes, los doctores publicaran contenidos que instruyan los pacientes y los pacientes
+crearan contenidos donde pregunten que puede ser su enfermedad o cosas por el estilo.
+Por ultimo se podran agender citas donde se guarda la fecha con hora de inicio y fecha con hora fin, la descripción por parte del paciente del problema que tiene
+y el doctor tendra la opción de aprobar o no la cita.
+
+Los campos y las relaciones se hicieron en base a esta idea, por favor ver la imagen "database structure.png" alli vera claramente los campos basicos 
+y las relaciones que se establecieron para todo el funcionamiento.
